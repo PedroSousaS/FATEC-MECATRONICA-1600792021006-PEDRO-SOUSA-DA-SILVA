@@ -8,5 +8,5 @@ print('Saitama > Goku')
 #variável
 #imput() - le os dados do teclado
 nome = input('Digite seu nome aqui')
-print('bom dia', nome,'seu lindo')
+print('bom dia', nome)
 # , separar coisas
