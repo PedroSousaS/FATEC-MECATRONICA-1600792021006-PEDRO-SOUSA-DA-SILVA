@@ -1,4 +1,4 @@
-#Pede ai usuário para digitar um valor para idade
+#Pede ao usuário para digitar um valor para idade
 idade = int(input('informe sua idade'))
 
 #pergunta, no código, se a idade é maior ou igual a 18
